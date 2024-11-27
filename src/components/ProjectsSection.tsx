@@ -5,31 +5,31 @@ const projects = [
     title: 'IUPACpalV2',
     description: 'A user-friendly website to efficiently identify the Inverted Repeats (IR) in IUPAC encoded DNA sequence.',
     technologies: ['TypeScript', 'NodeJS', 'ExpressJS', 'NextJS', 'C++', 'MySQL', 'Firebase'],
-    githubUrl: 'https://github.com/yourusername/IUPACpalV2',
+    githubUrl: 'https://github.com/Preity2018331008/IUPACpalV2',
   },
   {
     title: 'Hostel Management',
     description: 'A web-based system to improve hostel management efficiency and communication between administrators and students.',
     technologies: ['React', 'Bootstrap', 'NodeJS', 'ExpressJS', 'MySQL'],
-    githubUrl: 'https://github.com/yourusername/hostel-management',
+    githubUrl: 'https://github.com/Preity2018331008/hostel-management',
   },
   {
     title: 'FunBook',
     description: 'An app for kids to enjoy their textbooks and practice creativity by making animated movies from poems and short stories.',
     technologies: ['Android', 'Java', 'Firebase'],
-    githubUrl: 'https://github.com/yourusername/funbook',
+    githubUrl: 'https://github.com/Preity2018331008/funbook',
   },
   {
     title: 'HealthCal',
     description: 'A Disease Prediction App using ML to predict the risk of diabetes, maternal health risks, heart attack, and stroke.',
     technologies: ['Python', 'JavaScript', 'Flask'],
-    githubUrl: 'https://github.com/yourusername/healthcal',
+    githubUrl: 'https://github.com/Preity2018331008/healthcal',
   },
   {
     title: 'Labtastic',
     description: 'A platform to significantly improve the education experience for students, particularly those with limited access to equipment and resources for practical classes.',
     technologies: ['MongoDB', 'P5JS', 'NextJS'],
-    githubUrl: 'https://github.com/yourusername/labtastic',
+    githubUrl: 'https://github.com/Preity2018331008/labtastic',
   },
 ];
 
